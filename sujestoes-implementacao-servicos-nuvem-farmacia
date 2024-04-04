@@ -1,0 +1,30 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+Data: 04/04/2024 Empresa: Abstergo Industries Responsável: Luis Eduardo
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo, realizado por Luis Eduardo. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: 
+- Amazon Relational Database Service (RDS) 
+- É um serviço de banco de dados relacional distribuído pela Amazon Web Services (AWS). 
+- Possibilitar uma maior segurança, velocidade de acessso, escalabilidade e manutenabilidade dos dados da empresa, além da redução de custos com infraestrutura de servidor. 
+Etapa 2: 
+- AWS Cloud​Formation 
+- Configurar os recursos da nuvem que serão utilizados. 
+- Minimizar as configurações e gerenciamento dos recursos, ganhando tempo e produtividade ao focar nos aplicativos que serão utilizados. 
+Etapa 3: 
+- Amazon Elastic Compute Cloud (EC2). 
+- Prover recursos de computação através da nuvem. 
+- Utilizar recursos sob demanda (hardware e software) disponíveis na nuvem para minimizar gostos com a aquisição e manutenção dos equipamentos que a empresa possui.
+
+Conclusão
+A implementação de ferramentas na empresa Abstergo tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Anexos
+N/A
+
+Assinatura do Responsável pelo Projeto:
+Luis Eduardo
